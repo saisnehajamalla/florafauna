@@ -1,0 +1,26 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "common_name": "Pepper Bacterial Spot",
+    "pesticide_recommendation": "Use copper-based bactericides (follow label)",
+    "organic_alternatives": "Remove infected tissue; neem oil",
+    "care_tips": "Avoid overhead irrigation; improve air flow",
+    "source": "Extension guidance",
+    "safety_notes": "Follow label instructions"
+  },
+  "Pepper__bell___healthy": {
+    "common_name": "Healthy Pepper",
+    "pesticide_recommendation": "",
+    "organic_alternatives": "Maintain good cultural practices",
+    "care_tips": "Consistent watering and balanced fertilization",
+    "source": "Growing guide",
+    "safety_notes": ""
+  },
+  "Tomato_healthy": {
+    "common_name": "Healthy Tomato",
+    "pesticide_recommendation": "",
+    "organic_alternatives": "Encourage beneficial insects",
+    "care_tips": "Full sun, mulching, staking",
+    "source": "Growing guide",
+    "safety_notes": ""
+  }
+}

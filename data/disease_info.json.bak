@@ -1,0 +1,135 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "common_name": "Pepper Bacterial Spot",
+    "pesticide_recommendation": "Use copper-based bactericides (e.g., copper hydroxide) for severe outbreaks; follow product label and local regulations.",
+    "organic_alternatives": "Remove and destroy infected tissue; use neem oil or biological controls where appropriate.",
+    "care_tips": "Avoid overhead irrigation, improve air circulation, reduce leaf wetness, rotate crops, and avoid working in fields when leaves are wet.",
+    "source": "General extension guidance",
+    "safety_notes": "Always follow pesticide label directions and local regulations. Consider consulting local extension services for region-specific advice."
+  },
+  "Pepper__bell___healthy": {
+    "common_name": "Healthy Pepper",
+    "pesticide_recommendation": "No chemical treatment needed.",
+    "organic_alternatives": "Maintain cultural practices: mulching, balanced fertilization, and beneficial insects.",
+    "care_tips": "Ensure consistent watering, good nutrition, and regular inspection for early signs of pests/disease.",
+    "source": "Practical growing advice",
+    "safety_notes": "N/A"
+  },
+  "Potato___Early_blight": {
+    "common_name": "Potato Early Blight",
+    "pesticide_recommendation": "Fungicides containing chlorothalonil or mancozeb can help manage outbreaks; follow label instructions.",
+    "organic_alternatives": "Use copper fungicides where permitted; remove and destroy infected foliage and volunteer potatoes.",
+    "care_tips": "Rotate crops, avoid dense planting, remove debris, and irrigate at soil level to reduce leaf wetness.",
+    "source": "Crop protection guides",
+    "safety_notes": "Follow resistance-management guidelines (rotate active ingredients) and local regulations."
+  },
+  "Potato___healthy": {
+    "common_name": "Healthy Potato",
+    "pesticide_recommendation": "No treatment needed; monitor regularly.",
+    "organic_alternatives": "Maintain good soil health, rotation, and sanitation practices.",
+    "care_tips": "Provide balanced fertilization, control volunteer plants, and avoid overhead irrigation when possible.",
+    "source": "Agricultural best practices",
+    "safety_notes": "N/A"
+  },
+  "Potato___Late_blight": {
+    "common_name": "Potato Late Blight",
+    "pesticide_recommendation": "Apply recommended fungicides (e.g., metalaxyl + mancozeb mixes) at first sign; follow label and regional advisories.",
+    "organic_alternatives": "Copper-based fungicides may reduce spread; remove and destroy infected plants promptly.",
+    "care_tips": "Improve drainage, avoid overhead irrigation, remove infected debris, and monitor weather conditions that favor disease.",
+    "source": "Plant pathology resources",
+    "safety_notes": "Late blight can spread rapidly; contact extension services for severe outbreaks. Follow label directions for all products."
+  },
+  "Tomato_Bacterial_spot": {
+    "common_name": "Tomato Bacterial Spot",
+    "pesticide_recommendation": "Copper bactericides can help manage spread; apply as labeled for tomatoes.",
+    "organic_alternatives": "Sanitation and removal of infected tissue; crop rotation and copper where allowed.",
+    "care_tips": "Avoid overhead irrigation, improve airflow, and rotate crops. Remove volunteers and infected plant material.",
+    "source": "Extension publications",
+    "safety_notes": "Use integrated pest management; consult local guidelines before chemical use."
+  },
+  "Tomato_Early_blight": {
+    "common_name": "Tomato Early Blight",
+    "pesticide_recommendation": "Use fungicides registered for tomatoes (e.g., chlorothalonil) under label directions.",
+    "organic_alternatives": "Copper fungicides and sanitation measures can reduce incidence.",
+    "care_tips": "Remove infected leaves, rotate crops, and avoid overhead watering; mulch to prevent soil splashing.",
+    "source": "Tomato disease guides",
+    "safety_notes": "Monitor for resistance; use fungicide rotations as recommended."
+  },
+  "Tomato_healthy": {
+    "common_name": "Healthy Tomato",
+    "pesticide_recommendation": "No pesticide needed. Monitor and use cultural controls as required.",
+    "organic_alternatives": "Encourage beneficial insects and use organic sprays for pest control if needed.",
+    "care_tips": "Provide full sun, consistent watering, staking, mulching, and remove diseased foliage promptly.",
+    "source": "Growing guides",
+    "safety_notes": "N/A"
+  },
+  "Tomato_Late_blight": {
+    "common_name": "Tomato Late Blight",
+    "pesticide_recommendation": "Apply foliar fungicides with appropriate active ingredients at early signs; follow label guidance.",
+    "organic_alternatives": "Copper-based controls can be used where permitted; remove affected plants.",
+    "care_tips": "Destroy infected plants, avoid overhead irrigation, and monitor weather conditions that favor late blight.",
+    "source": "Plant disease extension",
+    "safety_notes": "Late blight outbreaks can be severe; contact local extension services for management advice."
+  },
+  "Tomato_Leaf_Mold": {
+    "common_name": "Tomato Leaf Mold",
+    "pesticide_recommendation": "Use fungicides recommended for leaf mold when disease pressure is high; follow label instructions.",
+    "organic_alternatives": "Improve ventilation, remove affected foliage; copper fungicides in organic systems where allowed.",
+    "care_tips": "Reduce humidity, space plants for airflow, and water at the soil level to keep foliage dry.",
+    "source": "Tomato health resources",
+    "safety_notes": "Preventive fungicide applications may be needed in high-risk regions—consult local guidance."
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "common_name": "Septoria Leaf Spot",
+    "pesticide_recommendation": "Use registered fungicides as labeled; sanitation and removal of infected leaves reduce pressure.",
+    "organic_alternatives": "Copper fungicides and improved sanitation help in organic systems.",
+    "care_tips": "Rotate crops, remove lower leaves, and avoid overhead watering to limit spread.",
+    "source": "Extension materials",
+    "safety_notes": "Cultural controls are important; consult local extension for chemical options."
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "common_name": "Two-spotted Spider Mite",
+    "pesticide_recommendation": "Miticides labeled for spider mites can be used; follow label and rotate modes of action to avoid resistance.",
+    "organic_alternatives": "Release predatory mites or use insecticidal soaps/miticidal soaps where appropriate.",
+    "care_tips": "Reduce plant stress with proper watering, wash foliage to remove mites, and monitor regularly for hotspots.",
+    "source": "Integrated pest management guides",
+    "safety_notes": "Some miticides are harmful to beneficial insects—use targeted applications and consult IPM guidelines."
+  },
+  "Tomato__Target_Spot": {
+    "common_name": "Tomato Target Spot",
+    "pesticide_recommendation": "Apply appropriate fungicides under label directions when disease pressure is high.",
+    "organic_alternatives": "Sanitation and removal of infected tissue; copper in organic systems where allowed.",
+    "care_tips": "Avoid overhead irrigation, increase airflow, and remove infected leaves to reduce inoculum.",
+    "source": "Crop protection references",
+    "safety_notes": "Follow local recommendations for fungicide use and rotation."
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "common_name": "Tomato Mosaic Virus",
+    "pesticide_recommendation": "No pesticide—viral diseases require cultural controls. Remove infected plants and control vectors.",
+    "organic_alternatives": "Sanitation, resistant varieties, and seed certification are key management steps.",
+    "care_tips": "Use virus-free seed/seedlings, disinfect tools, and remove infected plants promptly to reduce spread.",
+    "source": "Plant virology and extension",
+    "safety_notes": "Viral diseases are not treated with chemicals; focus on prevention and sanitation."
+  },
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "common_name": "Tomato Yellow Leaf Curl Virus",
+    "pesticide_recommendation": "Manage vector insects (whiteflies) with appropriate insecticides if necessary; follow label and IPM practices.",
+    "organic_alternatives": "Use reflective mulches, insect netting, and introduce natural enemies for whiteflies.",
+    "care_tips": "Plant resistant varieties where available, control whitefly vectors, and remove infected plants.",
+    "source": "Extension disease guides",
+    "safety_notes": "Vector control should follow IPM; avoid blanket insecticide sprays which harm beneficials."
+  }
+}
+  "Pepper__bell___Bacterial_spot": {
+    "pesticide_recommendation": "Use copper-based bactericides (e.g., copper hydroxide) as per label. Remove and destroy heavily infected leaves.",
+    "care_tips": "Avoid overhead irrigation; improve air circulation; rotate crops and avoid planting peppers in the same spot next season."
+  },
+  "Pepper__bell___healthy": {
+    "pesticide_recommendation": "No treatment needed. Maintain good cultural practices.",
+    "care_tips": "Ensure consistent watering, balanced fertilization, and inspect regularly for early signs of pests or disease."
+  },
+  "Tomato_healthy": {
+    "pesticide_recommendation": "No pesticide needed. Monitor and use organic controls if pests appear.",
+    "care_tips": "Provide full sun, consistent watering, mulching, and support for vines. Remove diseased foliage promptly."
+  }
+}

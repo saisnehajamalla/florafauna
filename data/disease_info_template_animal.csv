@@ -1,0 +1,2 @@
+class_name,common_name,pesticide_recommendation,organic_alternatives,care_tips,source,safety_notes
+Example_Animal_Disease,Example Common Name,Consult a vet,Keep wound clean; avoid pesticides,Isolate affected animal and consult veterinarian,https://example.org,Use gloves and follow vet guidance
